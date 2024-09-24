@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 *Let’s start with the basics…*
 
 **User message:** Please tell me about your day?

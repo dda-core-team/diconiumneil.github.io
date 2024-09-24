@@ -1,0 +1,13 @@
+<div class="sidebar">
+    <ul>
+      {% for item in site.data.samplelist.toc %}
+        <li>{{ item.title }}
+          <ul>
+            {% for subitem in item.subfolderitems %}
+              <li><a href="{{ subitem.url }}">{{ subitem.page }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>

@@ -73,16 +73,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 40rem;
+  max-width: 30rem;
 }
-@media (min-width: 58em) {
+@media (min-width: 48em) {
   .container {
-    max-width: 52rem;
+    max-width: 30rem;
   }
 }
-@media (min-width: 76em) {
+@media (min-width: 66em) {
   .container {
-    max-width: 64rem;
+    max-width: 33rem;
   }
 }
 

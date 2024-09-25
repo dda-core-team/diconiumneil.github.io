@@ -2,7 +2,7 @@
 title:               diconium SESS1ON Prompt Engineering Workshop 
 tagline:             ''
 description:         'Modules in the Workshop'
-baseurl:             'https://dda-core-team.github.io/diconiumneil.github.io/'
+baseurl:             'diconiumneil.github.io'
 paginate:            5
 permalink:           pretty
 

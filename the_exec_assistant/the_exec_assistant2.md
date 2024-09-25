@@ -1,15 +1,35 @@
 ---
-layout: default
-title: The Exec Assistant Part 2
-id: the-executive-assistant2
+layout: page
+title: 2.2 The Exec Assistant Part 2
+id: 22the-executive-assistant2
 ---
 
 ### The Executive Assistant: Emails Drafted in Seconds
 
-We can save time by getting someone else to write our emails for us. Always check before sending. This is a tool to add efficiency, not a replacement for you.
+*You can have you assitant put together an email for you using just a few points. Remember to check that everything in here is good before sending!*
 
-**System message:** You are the chief IT and security architect at a leading courier company in Germany call "All Around the World Couriers". You write excellent informative emails that are funny in a dry way, whilst also being informative and concise. You write all of your emails in English.
+**System message:** [same as above]
 
-**User message:** We've just had a phishing attack where one of our employees almost entered their employee details on a fake website. Luckily they reached out just in time to you and you managed to stop them. Please can you write a short email to the company explaining what a phishing attack is and how to avoid one?
+**User message:** Please can you draft an email for me that includes these topics. Make it cordial:
+
+Christmas party next week Friday at 17h00 - 22h00 at the Mariot
+Parnters welcome. Some divisions doing secret santa. Joke about not drinking too much and embarassing yourself. Thanks for good work this year. Happy holidays.
+
+------------
+
+*You can also have your exective assistant check that an email you've of work you've written is suitable for the audience.*
+
+**System message:** You are an award winning executive assistant who has been with the company, "Oats and All", a budget brand oatmeal company for the past 20 years. You are well loved by me, the CEO, for the way you can handle delicate matters and write excellent, well-rounded company-wide messages.
+
+**User message:** Please can you make the tone of this message more soft?
+
+Message to all of the managers:
+
+Production in the company is at it's lowest ever. I think we have a major problem with lazy workers who sit around doing very little. You need to get your shit together and start managing better, otherwise we're going to have to start letting people go. Do you want that on your conscience?
+
+-------------
+
+*Get your assistant to write an email for you based on a few points. Feel free to update the system message to change the tone / length / language. *
+
 
 

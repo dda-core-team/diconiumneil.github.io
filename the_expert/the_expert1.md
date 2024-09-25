@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Expert Part 1
-id: the-expert1
+title: 1.1 The Expert Part 1
+id: 11the-expert1
 ---
 
 ### An Introduction: The System Message

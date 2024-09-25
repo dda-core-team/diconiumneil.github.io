@@ -1,7 +1,7 @@
 ---
-layout: default
-title: The Exec Assistant Part 1
-id: the-executive-assistant1
+layout: page
+title: 2.1 The Exec Assistant Part 1
+id: 21the-executive-assistant1
 ---
 
 ### The Executive Assistant: Your Personal Translator

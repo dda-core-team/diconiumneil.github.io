@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Expert Part 3
-id: the-expert3
+title: 1.3 The Expert Part 3
+id: 13the-expert3
 ---
 
 ### Your Personal Expert: The Life Coach

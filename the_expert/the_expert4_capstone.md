@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Expert Part 4 (Capstone)
-id: the-expert4
+title: 1.4 The Expert Part 4 (Capstone)
+id: 14the-expert4
 ---
 
 ### The Expert: Create a Copywriter

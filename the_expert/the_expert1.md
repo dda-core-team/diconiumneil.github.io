@@ -28,3 +28,7 @@ id: 11the-expert1
 
 **User message:** Please tell me about your day?
 
+
+-----------
+
+**Your Task:** Think of another personality and ask them a question.

@@ -27,9 +27,9 @@ Message to all of the managers:
 
 Production in the company is at it's lowest ever. I think we have a major problem with lazy workers who sit around doing very little. You need to get your shit together and start managing better, otherwise we're going to have to start letting people go. Do you want that on your conscience?
 
--------------
+-----------
 
-*Get your assistant to write an email for you based on a few points. Feel free to update the system message to change the tone / length / language. *
+**Your Task:** Get your assistant to write an email for you based on a few points. Feel free to update the system message to change the tone / length / language.
 
 
 

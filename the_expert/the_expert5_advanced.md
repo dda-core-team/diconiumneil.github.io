@@ -17,3 +17,7 @@ Assistant: What are the main challenges you're facing?
 User: Well, there's a lot of competition in the market and we're struggling to find a niche for the company within this saturated market.
 
 Assistant: What is the primary value proposition of this company and how does it compare to other companies in the market?”
+
+-----------
+
+**Your Task:** What ideas do you have for other personalities or conversation structures you could create?

@@ -10,4 +10,6 @@ id: 12the-expert2
 
 **User message:** Please can you create a Tiktok campaign for the week leading up to our new wine launch "Orange you going to share that?" It's a single origin wine from Stellenbosch in South Africa.
 
-*Task:* What else can you ask your expert to make for you?
+-----------
+
+**Your Task:** Get your expert social media marketer to write Tweets for launch day.

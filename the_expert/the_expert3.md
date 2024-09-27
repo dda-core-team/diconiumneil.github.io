@@ -16,4 +16,6 @@ id: 13the-expert3
 - Get my wife, Barbara, something nice for her birthday. But I don't even know where to start
 - Have all of the meetings I have to have every day anyway
 
-Now it’s your turn. What can Jean Michelle help you organise?
+-----------
+
+**Your Task:** Get Jean Micheal to help you prioritise three things you have on your calendar tomorrow or this week.

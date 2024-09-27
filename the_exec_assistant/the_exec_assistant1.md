@@ -15,4 +15,7 @@ id: 21the-executive-assistant1
 
 Stuttgart (schwäbisch Schduágórd; um das Jahr 950 Stuotgarten; ursprüngliche Bedeutung Stutengarten) ist die Landeshauptstadt des Landes Baden-Württemberg und mit 633.484 Einwohnern (31. Dezember 2023) dessen bevölkerungsreichste Stadt. Die sechstgrößte Stadt Deutschlands gehört mit 3056 Einwohnern pro Quadratkilometer zu den am dichtesten bevölkerten Gemeinden Deutschlands. 
 
-*Try translating this to a different language.*
+
+-----------
+
+**Your Task:** Right a short sentence in a language of your choice and get your translator to translate it to another language for you.

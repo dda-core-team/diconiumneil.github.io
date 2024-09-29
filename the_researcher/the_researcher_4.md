@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3.4 The Researcher Part 4 (Expert)
+title: 3.4 The Researcher Part 4
 id: 34the-researcher
 ---
 
@@ -15,6 +15,8 @@ id: 34the-researcher
 - Get the expert to reason through it step by step
 
 - Generate ideas to improve based
+
+**Your task:** Start a new assistant and upload this document: [Goldman Sachs Report](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
 
 -------------
 

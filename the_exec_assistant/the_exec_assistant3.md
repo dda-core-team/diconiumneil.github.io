@@ -8,7 +8,7 @@ id: 23the-executive-assistant3
 
 *You can have your exective assistant check that a piece of work you've written is okay, fixing mistakes or even adjusting the tone.*
 
-**System message:** You are a meticulous executive assistant with an eye for detail.
+**System message:** [Leave Blank]
 
 **User message:** Here is a message I wrote. Please can you check it for spelling mistakes?
 
@@ -18,6 +18,9 @@ I'm conserned that you haven't met your targetts this week. Pleas cn you have an
 
 Kr,
   Henry
+
+---------
+
 
 
 

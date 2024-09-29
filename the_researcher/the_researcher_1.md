@@ -31,7 +31,7 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 
 **System message:** [Leave Blank]
 
-**User message:** Below is an email which I recieved from an investment company. Please can you give me a summary of the main points.
+**User message:** Below is an email which I recieved from an investment company. Please can you give me a summary of the main points in two sentences.
 
 US – Low financial stress means a recession remains unlikely
 
@@ -55,5 +55,7 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 - The whole document in two sentences
 
 - Summarise the parts of the document that may be important for your social media marketing department
+
+Please share your prompt and the result in the Miro board.
 
 

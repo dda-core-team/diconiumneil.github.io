@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.1 Advanced Technique Few Shot Learning 1
-id: 41advanced
+title: 4.2 Advanced Technique Few Shot Learning 1
+id: 42advanced
 ---
 
 ### Advanced Skills: Few shot learning 

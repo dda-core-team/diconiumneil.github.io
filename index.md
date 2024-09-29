@@ -7,4 +7,14 @@ This simple website contains all of the content for the diconium SESS1ON Prompt 
 
 [OpenAI Assistants Playground](https://platform.openai.com/playground/assistants){:target="_blank"}
 
+------------
+
+## Test the Miro board
+
+*Copy this and paste the following sentence under the yellow "Miro Test" square on the Miro board:* 
+
+**Hey there! I'm on the Miro board!**
+
+[Link to Miro board](https://miro.com/app/board/uXjVLbkGLk4=/){:target="_blank"}
+
 

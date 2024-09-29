@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3.3 The Researcher Part 3 (Advanced)
+title: 3.3 The Researcher Part 3
 id: 33the-researcher
 ---
 
@@ -24,11 +24,10 @@ Please download the additional data for this task here: [Micron Report](../../fi
 
 **System message:** [Leave Blank]
 
-**User message:** Using that attached document please calculate the ratio of proft to capex. Please thing through this step by step.
-
+**User message:** Using that attached document please calculate the ratio of proft to capex. Please think through this step by step.
 
 --------------
 
-**Your task:** Start a new assistant and upload this document: [Goldman Sachs Report](../files/Goldman%20Sach%20AI%20Report%202024.pdf){:target="_blank"}. 
+**Your task:** Start a new assistant and upload this document: [Goldman Sachs Report](../../files/Goldman%20Sach%20AI%20Report%202024.pdf){:target="_blank"}. 
 
 Is Goldman Sachs positive or negative about the impact of the AI boom? 

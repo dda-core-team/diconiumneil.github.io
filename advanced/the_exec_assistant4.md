@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Advanced Technique Few Short Learning 2
-id: 42advanced
+title: 4.3 Advanced Technique Few Short Learning 2
+id: 43advanced
 ---
 
 ### The Executive Assistant: Multiplying Yourself

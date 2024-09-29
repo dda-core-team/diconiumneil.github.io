@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2.4 The Exec Assistant Part 4 (Capstone)
-id: 24the-executive-assistant
+title: Advanced Technique Few Short Learning 2
+id: 42advanced
 ---
 
 ### The Executive Assistant: Multiplying Yourself

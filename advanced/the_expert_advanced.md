@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 1.5 The Expert Part 5 (Advanced)
-id: 15the-expert5
+title: 4.1 Advanced Technique Few Shot Learning 1
+id: 41advanced
 ---
 
 ### Advanced Skills: Few shot learning 

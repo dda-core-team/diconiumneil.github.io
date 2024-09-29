@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1.4 The Expert Part 4 (Capstone)
+title: 1.4 The Expert Part 4
 id: 14the-expert4
 ---
 

@@ -4,7 +4,7 @@ title: 3.2 The Researcher Part 2
 id: 32the-researcher
 ---
 
-### The Researcher: Getting the Key Insights from Research
+## The Researcher: Getting the Key Insights from Research
 
 *When given a lot of research, what we really need is the actionable insights. You can feed your bot research and it can give you the main points. You can also ask it specific questions about the document you've shared with it.*
 

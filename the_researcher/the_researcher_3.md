@@ -4,7 +4,7 @@ title: 3.3 The Researcher Part 3
 id: 33the-researcher
 ---
 
-### The Researcher: From Insights to Actions with PDFs
+## The Researcher: From Insights to Actions with PDFs
 
 *We're going to use the Assistants Playground are to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
 

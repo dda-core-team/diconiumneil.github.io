@@ -4,7 +4,7 @@ title: 2.2 The Exec Assistant Part 2
 id: 22the-executive-assistant2
 ---
 
-### The Executive Assistant: Emails Drafted in Seconds
+## The Executive Assistant: Emails Drafted in Seconds
 
 *You can have you assitant put together an email for you using just a few points. Remember to check that everything in here is good before sending!*
 

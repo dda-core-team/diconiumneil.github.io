@@ -4,7 +4,7 @@ title: 3.4 The Researcher Part 4
 id: 34the-researcher
 ---
 
-### The Researcher: Bringing it all together
+## The Researcher: Bringing it all together
 
 *Let's bring this all together and create and Expert who has access to information who can come up with a plan for us given some data*.
 
@@ -16,7 +16,7 @@ id: 34the-researcher
 
 - Generate ideas to improve based
 
-**Your task:** Start a new assistant and upload this document: [Goldman Sachs Report](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
+**Your task:** Start a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
 
 -------------
 

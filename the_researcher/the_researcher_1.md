@@ -4,7 +4,7 @@ title: 3.1 The Researcher Part 1
 id: 31the-researcher
 ---
 
-### The Researcher: Creating A Quick Summary
+## The Researcher: Creating A Quick Summary
 
 *Sometimes we just need the key points from a document. I have told the bot below that I want it to give me the main points in bullet form.*
 
@@ -46,7 +46,7 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 
 ----------
 
-**Your task:** Summarise this short document in a way that is meaningful to you. You could, for example summarise:
+**Your task:** Edit the first part of the prompt so that you will summarise this short document in a way that is meaningful to you. You could, for example summarise:
 
 - In German
 
@@ -56,6 +56,5 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 
 - Summarise the parts of the document that may be important for your social media marketing department
 
-Please share your prompt and the result in the Miro board.
 
 

@@ -4,12 +4,11 @@ title: 1.1 The Expert Part 1
 id: 11the-expert1
 ---
 
-### An Introduction: The System Message
+## An Introduction: The System Message
 
-*Let’s start with the basics…*
+*Let’s start with the basics by first seeing how the bot functions without a specific personality.*
 
 **User message:** Please tell me about your day?
-
 
 -----------
 

@@ -4,7 +4,7 @@ title: 2.1 The Exec Assistant Part 1
 id: 21the-executive-assistant1
 ---
 
-### The Executive Assistant: Your Personal Translator
+## The Executive Assistant: Your Personal Translator
 
 *Your own assistant can pick up simple tasks for you like helping you to translate a piece of text*
 

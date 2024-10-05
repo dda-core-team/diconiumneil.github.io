@@ -24,7 +24,7 @@ Please download the additional data for this task here: [Micron Report](../../fi
 
 **System message:** [Leave Blank]
 
-**User message:** Using that attached document please calculate the ratio of proft to capex. Please think through this step by step.
+**User message:** Using that attached document please calculate the ratio of profit to capex. Please think through this step by step.
 
 --------------
 

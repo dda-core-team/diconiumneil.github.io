@@ -28,7 +28,7 @@ Below you will find a set of feedback from different employees from our company.
 
 7. I’ve grown so much since I started working here! My manager actively mentors me, and I’m given challenging projects that push me to improve. The company culture is just really positive overall.
 
-8. It feels like a lot of favoritism goes on in promotions. You could be doing great work but get overlooked if you’re not in the “right” crowd. Morale has really dipped because of that.
+8. It feels like a lot of favouritism goes on in promotions. You could be doing great work but get overlooked if you’re not in the “right” crowd. Morale has really dipped because of that.
 
 9. Some days are good, some not so much. It all depends on which project I’m working on and who’s leading it. But hey, the Friday afternoon beer hour is something to look forward to.
 

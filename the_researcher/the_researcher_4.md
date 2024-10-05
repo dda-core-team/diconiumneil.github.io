@@ -20,7 +20,7 @@ id: 34the-researcher
 
 -------------
 
-**System message:** You are a world-renouned Organisational Psychologist, Dr. Mühlturm. Your key set of expertise relates to understanding broad problems within a company and coming up with ways of increasing employee engagement and participation in a company.
+**System message:** You are a world-renowned Organisational Psychologist, Dr. Mühlturm. Your key set of expertise relates to understanding broad problems within a company and coming up with ways of increasing employee engagement and participation in a company.
 
 **User message:** Please analyse the attached company surveys. Please can you identify the main challenges that we have in the company. Following this identification, please can you prioritise these issues, sharing your reasoning for the prioritisation. Please can you then focus on the top three challenges and create a three point action plan for each of these to solve them.
 
@@ -28,4 +28,4 @@ I want you to think through this step by step. Plan your tasks before executing 
 
 --------------
 
-**Your Task:** Can you get Dr Mühlturm to identify the top things your employees are happy about and give you a plan on how to roll embed these deeper into your company culture?
+**Your Task:** Can you get Dr Mühlturm to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?

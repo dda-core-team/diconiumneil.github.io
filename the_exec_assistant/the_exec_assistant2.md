@@ -36,7 +36,18 @@ Production in the company is at it's lowest ever. I think we have a major proble
 
 -----------
 
-**Your Task:** Get your assistant to write an email for you based on a few points. Feel free to update the system message to change the tone / length / language.
+**Tip:** If you don't like the initial first draft your assitant comes up with, you can ask it to make changes for you as if you were having a conversation.
 
+-----------
 
+**Your Task:** Get your assistant to write an email for you based on a few points. You can come up with your own points, or use these examples as inspiration to get your mind flowing:
 
+- We need to do our monthly time sheets. You have until 12h00.
+
+- If we don't do them, the company loses money - that means less bonuses
+
+- If you need help, reach out to Phil.
+
+Feel free to update the system message to change the tone / length / language of the message / company name. 
+
+Please share your assistant's email on the Miro board.

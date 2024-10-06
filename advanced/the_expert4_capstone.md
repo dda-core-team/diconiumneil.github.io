@@ -24,7 +24,7 @@ id: 41advanced
 
 -----------
 
-### Advanced Expert Exercise
+## Advanced Expert Exercise
 
 It's time for you to create your very own expert. You must create an expert copywriter for your company. Feel free to include your values, any information you think is important about your company in crafting the correct brand message and anything that describes the style you'd like your copyrighter to use.
 

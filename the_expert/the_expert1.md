@@ -27,7 +27,10 @@ id: 11the-expert1
 
 **User message:** Please tell me about your day?
 
+-----------
+
+**Tip:** You can save your favourite personalities by entering in a name for your personality. It is automatically saved. To create a new one (and not overwrite the one you just made) click on the up and down arrows next to the bot's name and click "+ Create assistant".
 
 -----------
 
-**Your Task:** Think of another personality and ask them a question.
+**Your Task:** Think of another personality and ask them a question. Paste the personality (system message) and the reply on the Miro board.

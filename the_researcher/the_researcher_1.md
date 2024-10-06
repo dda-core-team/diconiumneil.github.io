@@ -16,7 +16,7 @@ id: 31the-researcher
 
 US – Low financial stress means a recession remains unlikely
 
-Sygnia		By Nikita Hadskins
+By Nikita Hadskins
 
 Portfolio Manager
 
@@ -48,13 +48,15 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 
 **Your task:** Edit the first part of the prompt so that you will summarise this short document in a way that is meaningful to you. You could, for example summarise:
 
-- In German
+- The document in five points in German
 
 - Only the points related to inflation
 
-- The whole document in two sentences
+- The whole document in one sentence that a five year old would understand
 
-- Summarise the parts of the document that may be important for your social media marketing department
+- Summarise the parts of the document that may be important for your operations manager
+
+Please paste your summary on the Miro board.
 
 
 

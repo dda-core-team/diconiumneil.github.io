@@ -14,4 +14,18 @@ id: 12the-expert2
 
 -----------
 
-**Your Task:** Get your expert social media marketer to write Tweets for launch day.
+**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be.
+
+-----------
+
+**Your Task:** Get your expert social media marketer to help you on more platforms. Either come up with your own idea or try one of these:
+
+1. Design an Instagram engagement plan for launch day
+
+2. Write seven Tweets, one per day, leading up to the launch
+
+3. Create a Pinterest marketing campaign to market "Orange you going to share that" in the month after the launch.
+
+4. Your own idea...
+
+Please share your question to the bot and their answer on the Miro board.

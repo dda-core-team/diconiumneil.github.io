@@ -16,4 +16,4 @@ Stuttgart (schwäbisch Schduágórd; um das Jahr 950 Stuotgarten; ursprüngli
 
 -----------
 
-**Your Task:** Right a short sentence in a language of your choice and get your translator to translate it to another language for you.
+**Your Task:** Get your assistant to translate this into another language of your choice and paste it on the Miro board.

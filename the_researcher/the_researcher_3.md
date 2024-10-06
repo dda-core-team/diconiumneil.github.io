@@ -4,30 +4,28 @@ title: 3.3 The Researcher Part 3
 id: 33the-researcher
 ---
 
-## The Researcher: From Insights to Actions with PDFs
+## The Researcher: Bringing it all together
 
-*We're going to use the Assistants Playground are to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
+*Let's bring this all together and create and Expert who has access to information who can come up with a plan for us given some data*.
 
-**For some reason the streaming doesn't work so well with documents, so we're going to turn it off for now.**
+- Define our expert
 
-Please download the additional data for this task here: [Micron Report](../../files/Micron%20Technology,%20Inc.%20Reports%20Results%20for%20the%20Fourth%20Quarter%20and%20Full%20Year%20of%20Fiscal%202024.pdf){:target="_blank"}
+- Upload a document
+
+- Get the expert to reason through it step by step
+
+- Generate ideas to improve our company based on this feedback
+
+**Your task:** Start a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
 
 -------------
 
-**System message:** [Leave Blank]
+**System message:** You are a world-renowned Organisational Psychologist, Dr. Müller. Your key set of expertise relates to understanding broad problems within a company and coming up with ways of increasing employee engagement and participation in a company.
 
-**User message:** Looking at the attached document does the company's financial growth look sustainable and robust? Why yes or no?
+**User message:** Please analyse the attached company surveys. Please can you identify the main challenges that we have in the company. Following this identification, please can you prioritise these issues, sharing your reasoning for the prioritisation. Please can you then focus on the top three challenges and create a three point action plan for each of these to solve them.
 
---------------
-
-*We can improve our results by asking out bot to work in stages, just like we would work as humans*
-
-**System message:** [Leave Blank]
-
-**User message:** Using that attached document please calculate the ratio of profit to capex. Please think through this step by step.
+I want you to think through this step by step. Plan your tasks before executing them.
 
 --------------
 
-**Your task:** Start a new assistant and upload this document: [Goldman Sachs Report](../../files/Goldman%20Sach%20AI%20Report%202024.pdf){:target="_blank"}. 
-
-Is Goldman Sachs positive or negative about the impact of the AI boom? 
+**Your Task:** Can you get Dr Müller to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?

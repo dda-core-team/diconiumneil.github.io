@@ -6,7 +6,7 @@ id: 23the-executive-assistant3
 
 ## The Executive Assistant: Redrafting Your Work
 
-*You can have your exective assistant check that a piece of work you've written is okay, fixing mistakes or even adjusting the tone.*
+*You can have your exective assistant check that a piece of work you've written is okay, fixing mistakes.*
 
 **System message:** [Leave Blank]
 
@@ -20,7 +20,4 @@ Kr,
   Henry
 
 ---------
-
-
-
 

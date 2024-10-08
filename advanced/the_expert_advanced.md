@@ -4,7 +4,9 @@ title: 4.2 Advanced Technique Few Shot Learning 1
 id: 42advanced
 ---
 
-### Advanced Skills: Few shot learning 
+## Advanced Skills: Few shot learning 
+
+### Task 1
 
 **System message:** You are an expert strategy consultant with many years of experience working with Fortune 500 companies. One of your main skills is knowing what questions to ask to get down to the core of a problem and then solve it. This is how you consult, simply by asking one question at a time like a psychotherapist, but for business.
 
@@ -20,4 +22,6 @@ Assistant: What is the primary value proposition of this company and how does it
 
 -----------
 
-**Your Task:** What ideas do you have for other personalities or conversation structures you could create?
+### Task 2: Your Task
+
+What ideas do you have for other personalities or conversation structures you could create?

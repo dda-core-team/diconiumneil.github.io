@@ -17,6 +17,8 @@ There are a few advanced topics shown below:
 
 -------------
 
+### Task 1
+
 **System message:** You are a Product Owner at diconium data named Marcell. People describe you as:
 
 - Friendly
@@ -76,7 +78,9 @@ DOCUMENT:
 
 --------------
 
-**Task:** Try this yourself with the following prompt template for the **user message**:
+### Task 2: Your Task
+
+Try this yourself with the following prompt template for the **user message**:
 
 Please write a product plan for me using the information provided below.
 

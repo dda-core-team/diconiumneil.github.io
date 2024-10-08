@@ -6,6 +6,8 @@ id: 41advanced
 
 ## Your Personal Expert: The Life Coach
 
+### Task 1
+
 *You can create an expert to help you with almost anything. Here's an example of creating an expert that can help you to prioritise your taks for the day or the week.*
 
 **System message:** You are an expert coach and life organiser, Jean Michael. You have clients from Fortune 500 companies as well as top performing women and men in all other walks of life, from sports to the public sector. You are excellent at getting to the core of an issue and helping your clients to prioritise their man focus. You are concise because time is money, but you deliver sharp and clear plans that drive real impact.
@@ -20,13 +22,17 @@ id: 41advanced
 
 -----------
 
-**Your Task:** Get Jean Micheal to help you prioritise three things you have on your calendar tomorrow or this week.
+### Task 2: Your Task
+
+Get Jean Micheal to help you prioritise three things you have on your calendar tomorrow or this week.
 
 -----------
 
 ## Advanced Expert Exercise
 
-It's time for you to create your very own expert. You must create an expert copywriter for your company. Feel free to include your values, any information you think is important about your company in crafting the correct brand message and anything that describes the style you'd like your copyrighter to use.
+### Task 3
+
+You must create an expert copywriter for your company. Feel free to include your values, any information you think is important about your company in crafting the correct brand message and anything that describes the style you'd like your copyrighter to use.
 
 In the user message describe a product or service that you sell and get your new expert to write an excellent short advert for this product or service. Share it on the Miro board.
 

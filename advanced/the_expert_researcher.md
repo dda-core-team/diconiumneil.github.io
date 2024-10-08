@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3.3 The Researcher Part 3
-id: 33the-researcher
+title: 4.4 The Advanced Researcher
+id: 44advanced
 ---
 
 ## The Researcher: Bringing it all together
@@ -16,9 +16,11 @@ id: 33the-researcher
 
 - Generate ideas to improve our company based on this feedback
 
-**Your task:** Start a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
+Start a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
 
 -------------
+
+### Task 1
 
 **System message:** You are a world-renowned Organisational Psychologist, Dr. Müller. Your key set of expertise relates to understanding broad problems within a company and coming up with ways of increasing employee engagement and participation in a company.
 
@@ -28,4 +30,6 @@ I want you to think through this step by step. Plan your tasks before executing 
 
 --------------
 
-**Your Task:** Can you get Dr Müller to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?
+### Task 2: Your Task
+
+Can you get Dr Müller to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?

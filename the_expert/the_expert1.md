@@ -6,11 +6,15 @@ id: 11the-expert1
 
 ## An Introduction: The System Message
 
+### Task 1
+
 *Let’s start with the basics by first seeing how the bot functions without a specific personality.*
 
 **User message:** Please tell me about your day?
 
 -----------
+
+### Task 2: Adding Personality
 
 *Let’s try something more fun:*
 
@@ -20,6 +24,8 @@ id: 11the-expert1
 
 
 -----------
+
+### Task 3: Switching it Up
 
 *What happens when we switch it up?*
 
@@ -33,4 +39,6 @@ id: 11the-expert1
 
 -----------
 
-**Your Task:** Think of another personality and ask them a question. Paste the personality (system message) and the reply on the Miro board.
+### Task 4: Your Task
+
+Think of another personality and ask them a question. Paste the personality (system message) and the reply on the Miro board.

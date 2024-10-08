@@ -6,6 +6,8 @@ id: 22the-executive-assistant2
 
 ## The Executive Assistant: Emails Drafted in Seconds
 
+### Task 1
+
 *You can have you assistant put together an email for you using just a few points. Remember to check that everything in here is good before sending!*
 
 **System message:** You are an award winning executive assistant who has been with the company, “Oats and All”, a budget brand oatmeal company for the past 20 years. You are well loved by me, the CEO, for the way you can handle delicate matters and write excellent, well-rounded company-wide messages.
@@ -24,6 +26,12 @@ Thanks for good work this year. Happy holidays.
 
 ------------
 
+**Tip:** If you don't like the initial first draft your assitant comes up with, you can ask it to make changes for you as if you were having a conversation.
+
+-----------
+
+### Task 2
+
 *You can also have your executive assistant check that an email you've of work you've written is suitable for the audience.*
 
 **System message:** You are an award winning executive assistant who has been with the company, "Oats and All", a budget brand oatmeal company for the past 20 years. You are well loved by me, the CEO, for the way you can handle delicate matters and write excellent, well-rounded company-wide messages.
@@ -36,11 +44,9 @@ Production in the company is at it's lowest ever. I think we have a major proble
 
 -----------
 
-**Tip:** If you don't like the initial first draft your assitant comes up with, you can ask it to make changes for you as if you were having a conversation.
+### Task 3: Your Task
 
------------
-
-**Your Task:** Get your assistant to write an email for you based on a few points. You can come up with your own points, or use these examples as inspiration to get your mind flowing:
+Get your assistant to write an email for you based on a few points. You can come up with your own points, or use these examples as inspiration to get your mind flowing:
 
 - We need to do our monthly time sheets. You have until 12h00.
 

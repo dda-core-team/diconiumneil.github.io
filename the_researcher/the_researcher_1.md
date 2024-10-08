@@ -10,6 +10,8 @@ id: 31the-researcher
 
 -------------
 
+### Task 1: Document Summary
+
 **System message:** [Leave Blank]
 
 **User message:** Below is an email which I recieved from an investment company. Please can you give me a summary of the main points in bullet form:
@@ -26,6 +28,8 @@ Global uncertainty continues to rise, and a bar of gold is now worth more than o
 Chair of the Federal Open Market Committee Jerome Powell confirmed the September rate cut in his Jackson Hole symposium speech. His speech was dovish relative to the July minutes, stating variously that “conditions are now less tight than just before the pandemic”, that it is “unlikely that the labour market will be a source of elevated inflationary pressures” and that the Fed “do not seek or welcome further cooling in labour market conditions.” Headline and core CPI eased for the fourth consecutive month in July. The three-month moving average continued to improve, reaching a three-and-a-half-year low. Unfortunately, “supercore” inflation (core services ex-shelter) reaccelerated in July, and shelter inflation grew 0.4% month-on-month from 0.2% in June. We thus remain in the higher-for-longer camp on the US. Growth is slowing to trend, but financial stress is often the cause of recessions – and financial stress in the US has been easing this year (based on the Kansas Fed Financial Stress Index).
 
 --------------
+
+### Task 2: Specifiying the Summary Format
 
 *We can also be specific with the bot about how we want it to give generate the text*.
 
@@ -46,7 +50,9 @@ Chair of the Federal Open Market Committee Jerome Powell confirmed the September
 
 ----------
 
-**Your task:** Edit the first part of the prompt so that you will summarise this short document in a way that is meaningful to you. You could, for example summarise:
+### Task 3: Your Task
+
+Edit the first part of the prompt so that you will summarise this short document in a way that is meaningful to you. You could, for example summarise:
 
 - The document in five points in German
 

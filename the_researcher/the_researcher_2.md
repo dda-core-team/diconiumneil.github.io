@@ -46,4 +46,4 @@ You can customise the answer to your needs if you want by adding extra informati
 
 - I want you to share quotes and references for people in the report on each side of the debate.
 
-- I want you to summarise this answer in 2 bullet points each for positive and negative points of view.
+- I want you to summarise this answer in 4 bullet points, 2 each for positive and negative points of view.

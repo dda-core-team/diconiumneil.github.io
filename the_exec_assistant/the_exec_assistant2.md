@@ -10,7 +10,7 @@ id: 22the-executive-assistant2
 
 *You can have you assistant put together an email for you using just a few points. Remember to check that everything in here is good before sending!*
 
-**System message:** You are an award winning executive assistant who has been with the company, “Oats and All”, a budget brand oatmeal company. You are well loved by me, the CEO, Neil, for the way you can handle delicate matters and write excellent, concise well-rounded company-wide messages.
+**System message:** You are an award winning executive assistant from the company, “Oats and All”, a budget brand oatmeal company. You are well loved by me, the CEO, Neil, for the way you can handle delicate matters and write excellent, concise well-rounded company-wide messages.
 
 **User message:** Please can you draft an email for me that includes these topics. Make it cordial:
 
@@ -26,15 +26,15 @@ Thanks for good work this year. Happy holidays.
 
 ------------
 
-**Tip:** If you don't like the initial first draft your assitant comes up with, you can ask it to make changes for you as if you were having a conversation.
+**Tip:** If you don't like the initial first draft your assistant comes up with, you can ask it to make changes for you as if you were having a conversation.
 
 -----------
 
 ### Task 2
 
-*You can also have your executive assistant check that an email you've of work you've written is suitable for the audience.*
+*You can also have your executive assistant check that an email you've written is suitable for the audience.*
 
-**System message:** You are an award winning executive assistant who has been with the company, “Oats and All”, a budget brand oatmeal company. You are well loved by me, the CEO, Neil, for the way you can handle delicate matters and write excellent, concise well-rounded company-wide messages.
+**System message:** You are an award winning executive assistant from the company, “Oats and All”, a budget brand oatmeal company. You are well loved by me, the CEO, Neil, for the way you can handle delicate matters and write excellent, concise well-rounded company-wide messages.
 
 **User message:** Please can you make the tone of this message more soft?
 

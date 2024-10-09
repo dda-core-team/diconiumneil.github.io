@@ -6,7 +6,7 @@ id: 31the-researcher
 
 ## The Researcher: Creating A Quick Summary
 
-*Sometimes we just need the key points from a document. I have told the bot below that I want it to give me the main points in bullet form.*
+*Sometimes we just need the key points from a document. You can feed your bot a document and ask it to summarise it for.*
 
 -------------
 

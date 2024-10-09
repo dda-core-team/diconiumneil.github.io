@@ -8,7 +8,7 @@ id: 23the-executive-assistant3
 
 ### Task 1
 
-*You can have your exective assistant check that a piece of work you've written is okay, fixing mistakes.*
+*You can have your executive assistant check that a piece of work you've written is okay, fixing mistakes.*
 
 **System message:** [Leave Blank]
 

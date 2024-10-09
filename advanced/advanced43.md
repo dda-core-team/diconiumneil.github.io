@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.3 Advanced Technique Few Short Learning 2
+title: 4.3 Advanced Exercise 3
 id: 43advanced
 ---
 
@@ -13,7 +13,9 @@ There are a few advanced topics shown below:
 1. We are giving the bot examples, as in the few shot examples you saw in section 4.2. 
 2. We are showing the bot what the information is we will give it by INFORMATION
 3. We are showing the bot what we want it to write with DOCUMENT
-4. We keep this pattern in the user message, however, we end with DOCUMENT: as we want the bot to start generating the document with the information provided
+4. We keep this pattern in the user message, however, we end with DOCUMENT: (followed by nothing) as we want the bot to start generating the document with the information provided
+
+Take note that after DOCUMENT in the system message I've given the assistant an example of a document that I would have (hypothetically) written with the information that I've provided. The idea is that it should be able to approximate my style given a similar input.
 
 -------------
 

@@ -41,4 +41,4 @@ id: 11the-expert1
 
 ### Task 4: Your Task
 
-Think of another personality and ask them a question. Paste the personality (system message) and the reply on the Miro board.
+Think of another personality and ask them a question. Paste the personality (system message) and its reply on the Miro board.

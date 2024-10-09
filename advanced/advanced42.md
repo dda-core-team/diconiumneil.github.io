@@ -1,10 +1,12 @@
 ---
 layout: page
-title: 4.2 Advanced Technique Few Shot Learning 1
+title: 4.2 Advanced Exercise 2
 id: 42advanced
 ---
 
 ## Advanced Skills: Few shot learning 
+
+*This example shows how to use a technique called "few shot learning" to show the bot how you want it to respond given some input. This is a very powerful technique that can, in a sense, be used to give the bot limited training in a certain direction. In the example below, we show the bot how we want it to communicate with us. Here we are steering the bot towards being a strategy sparring partner for us by showing it how we want it to prompt us with questions when we communicate with it.*
 
 ### Task 1
 

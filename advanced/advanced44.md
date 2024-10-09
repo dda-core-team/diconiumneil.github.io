@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.4 The Advanced Researcher
+title: 4.4 Advanced Exercise 4
 id: 44advanced
 ---
 

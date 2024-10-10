@@ -6,7 +6,7 @@ id: 44advanced
 
 ## The Researcher: Bringing it all together
 
-*Let's bring this all together and create and Expert who has access to information who can come up with a plan for us given some data*.
+*Let's bring this all together and create an Expert who has access to company-specific information in a document and who can come up with a plan for us given this data.*
 
 - Define our expert
 
@@ -16,7 +16,9 @@ id: 44advanced
 
 - Generate ideas to improve our company based on this feedback
 
-Start a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
+Create a new assistant and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
+
+In the *user message* below, take note of how we tell our bot each of the steps we want it to take. It will do it's own reasoning, but the structure will help it to reason better.
 
 -------------
 

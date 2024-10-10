@@ -12,7 +12,7 @@ There are a few advanced topics shown below:
 
 1. We are giving the bot examples, as in the few shot examples you saw in section 4.2. 
 2. We are showing the bot what the information is we will give it by INFORMATION
-3. We are showing the bot what we want it to write with DOCUMENT
+3. We are showing the bot what we want it to write - given the information we shared - with the marker DOCUMENT
 4. We keep this pattern in the user message, however, we end with DOCUMENT: (followed by nothing) as we want the bot to start generating the document with the information provided
 
 Take note that after DOCUMENT in the system message I've given the assistant an example of a document that I would have (hypothetically) written with the information that I've provided. The idea is that it should be able to approximate my style given a similar input.
@@ -36,11 +36,11 @@ INFORMATION:
 - Apple has introduced a new API for developing OpenAI apps that are accessible through the Alexa platfrom.
 
 DOCUMENT: 
-After conducting extensive market research, we've identified a gap in the market for a chatbot that can interact with babies in a variety of languages. Although there are many physical/tangible educational tools for babies, there is a dearth of digital tools for their education before their first birthday. Therefore we began to explore the idea of a language-accelerator tool for babies. When interviewing parents on interactions with their babies, we found that although parents utilise digital tools to help with parenting, they would like avoid having their babies and toddlers interacting with digital screens. Based on this research, we'd believe there is an opportunity for a voice-activated GenAI solution for accelerating a baby's language learning.
+After conducting extensive market research, we've identified a gap in the market for a chatbot that can interact with babies in a variety of languages. Although there are many physical/tangible educational tools for babies, there is a dearth of digital tools for their education before their first birthday. Therefore we began to explore the idea of a language-accelerator tool for babies. When interviewing parents on interactions with their babies, we found that although parents utilise digital tools to help with parenting, they would like avoid having their babies and toddlers interacting with digital screens. Based on this research, we believe there is an opportunity for a voice-activated GenAI solution for accelerating a baby's language learning.
 
 Key Features:
 
-1. Voice activated. Recognized baby-murmers and replies.
+1. Voice activated. Recognize baby-murmers and replies.
 
 2. Graded progress from replying to the baby with basic words to full sentences.
 
@@ -60,7 +60,7 @@ Timeline
 
 - Weeks 1 - 2: Figma design of prototype, basic coding of prototype with voice activation.
 
-- Week 3: Code React frontend and test in house.
+- Week 3: Code React frontend and test in-house.
 
 - Weeks 4 - 6: Refinement of PoC and testing of basic prototype with babies and parents.
 
@@ -72,9 +72,9 @@ Please write a product plan for me using the information provided below.
 
 INFORMATION:
 
-- Customer segmentation has been identified as a key variable in customer orientation in companies.
+- Customer segmentation has been identified as a key enabler of customer orientation in companies.
 - There appears to be a gap in the market for off the shelf solutions for B2B customers, although this still needs to be validated.
-- Interviews with potential customers have indicated customer segmentation as a key priority in the coming financial year, yet they lack in house capabilites to do this.
+- Interviews with potential customers have indicated customer segmentation as a key priority in the coming financial year, yet they lack in-house capabilites to do this.
 
 DOCUMENT:
 
@@ -82,7 +82,7 @@ DOCUMENT:
 
 ### Task 2: Your Task
 
-Try this yourself with the following prompt template for the **user message**:
+Try this yourself with the below prompt template for the **user message**. Feel free to adjust the system message so it's more in line with your personal style.
 
 Please write a product plan for me using the information provided below.
 

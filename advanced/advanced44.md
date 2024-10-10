@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 4.4 Advanced Exercise 4
-id: 44advanced
+title: 4.1 Advanced Exercise
+id: 41advanced
 ---
 
-## The Researcher: Bringing it all together
+## The Advanced Researcher: Bringing it all together
 
 *Let's bring this all together and create an Expert who has access to company-specific information in a document and who can come up with a plan for us given this data.*
 
@@ -34,4 +34,6 @@ I want you to think through this step by step. Plan your tasks before executing 
 
 ### Task 2: Your Task
 
-Can you get Dr Müller to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?
+Can you get Dr. Müller to identify the top things your employees are happy about and give you a plan on how to embed these deeper into your company culture?
+
+Are there any other insights or action items you might want from Dr. Müller about the company surveys?
